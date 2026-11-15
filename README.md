@@ -1,10 +1,10 @@
-# HTML and CSS Introduction Lab (BCS352)
+# HTML and CSS Introduction Lab (BCS357)
 ### Invertis University, Bareilly - Department of Computer Science & Engineering
 
 Student Name: Shekhar Singh  
 Roll Number: BCS2025357  
 Course: B.Tech CSE - Second Year  
-Email: abhinavsrivastava98890@gmail.com  
+Email: shekharsingh852801@gmail.com  
 
 ---
 
