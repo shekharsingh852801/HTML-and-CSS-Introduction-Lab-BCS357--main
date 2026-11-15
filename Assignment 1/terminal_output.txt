@@ -1,0 +1,36 @@
+PS D:\Project College\Abhinav\HTML-CSS-Practicals\Assignment 1> mkdir html-lab
+PS D:\Project College\Abhinav\HTML-CSS-Practicals\Assignment 1> cd html-lab
+PS D:\Project College\Abhinav\HTML-CSS-Practicals\Assignment 1\html-lab> git init
+Initialized empty Git repository in D:/Project College/Abhinav/HTML-CSS-Practicals/Assignment 1/html-lab/.git/
+
+PS D:\Project College\Abhinav\HTML-CSS-Practicals\Assignment 1\html-lab> git config --local user.name "Shekhar Singh"
+PS D:\Project College\Abhinav\HTML-CSS-Practicals\Assignment 1\html-lab> git config --local user.email "abhinavsrivastava98890@gmail.com"
+
+PS D:\Project College\Abhinav\HTML-CSS-Practicals\Assignment 1\html-lab> git config user.name
+Shekhar Singh
+
+PS D:\Project College\Abhinav\HTML-CSS-Practicals\Assignment 1\html-lab> git config user.email
+abhinavsrivastava98890@gmail.com
+
+PS D:\Project College\Abhinav\HTML-CSS-Practicals\Assignment 1\html-lab> git status
+On branch main
+No commits yet
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	index.html
+nothing added to commit but untracked files present (use "git add" to track)
+
+PS D:\Project College\Abhinav\HTML-CSS-Practicals\Assignment 1\html-lab> git add index.html
+PS D:\Project College\Abhinav\HTML-CSS-Practicals\Assignment 1\html-lab> git commit -m "Add home page"
+[main (root-commit) eaf1bea] Add home page
+ 1 file changed, 15 insertions(+)
+ create mode 100644 index.html
+
+PS D:\Project College\Abhinav\HTML-CSS-Practicals\Assignment 1\html-lab> git add index.html
+PS D:\Project College\Abhinav\HTML-CSS-Practicals\Assignment 1\html-lab> git commit -m "Add next meeting heading"
+[main f48e1d9] Add next meeting heading
+ 1 file changed, 1 insertion(+)
+
+PS D:\Project College\Abhinav\HTML-CSS-Practicals\Assignment 1\html-lab> git log --oneline
+f48e1d9 Add next meeting heading
+eaf1bea Add home page
